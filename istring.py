@@ -1,6 +1,8 @@
 from string import punctuation,letters
 import wordLib
 
+print "hello world" 
+
 class setString:
     text = []
     punct = []
